@@ -21,7 +21,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(to right, #78ebf365 0%, #77f4fa5d 100%), url(../img/FondoCybac.png);/*Fondo Background principal*/
+    background-image: linear-gradient(to right,  #dbeff065 0%, #e4f7f85d  100%), url(../img/FondoCybac.png);/*Fondo Background principal*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
